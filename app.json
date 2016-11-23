@@ -1,0 +1,7 @@
+{
+  "name": "zmirror",
+  "description": "a golang fetchserver for goproxy",
+  "repository": "https://github.com/ttestdock/zmirror.git",
+  "logo": "https://avatars3.githubusercontent.com/u/195836?s=60",
+  "keywords": ["golang", "fetchserver", "golang"]
+}
